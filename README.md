@@ -42,4 +42,4 @@ Users are able to:
 
 
 ## Author
-- LinkedIn - [@prajwalsindikar](https://www.linkedin.com/in/nidhi-ramteke-24nr/)
+- LinkedIn - [@nidhiramteke](https://www.linkedin.com/in/nidhi-ramteke-24nr/)
