@@ -25,9 +25,9 @@ Users are able to:
 
 ### Screenshot
 
-![screenshot of the collection pack](frontend/src/assets/screenshot1.png)
-![screenshot of collection pack preview](frontend/src/assets/screenshot2.png)
-![screenshot of collection pack preview](frontend/src/assets/screenshot3.png)
+![screenshot of the collection pack](Frontend-Ecommerce-app\frontend\src\assets\screenshot1.jpeg)
+![screenshot of collection pack preview](Frontend-Ecommerce-app\frontend\src\assets\screenshot2.jpeg)
+![screenshot of collection pack preview](Frontend-Ecommerce-app\frontend\src\assets\screenshot3.jpeg)
 
 ### Link
 
